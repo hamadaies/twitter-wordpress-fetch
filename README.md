@@ -13,7 +13,7 @@ Features
 
 Installation 1. Download or clone this repository:
 
-git clone https://github.com/hamadaies/twitter-auto-poster.git
+git clone https://github.com/hamadaies/twitter-wordpress-fetch.git
 
     2.	Move the folder to your LocalWP installation:
 
